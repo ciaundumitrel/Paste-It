@@ -15,6 +15,8 @@ Requirments (in romanian):
 
 
 Colaboratori:
-Gelu Galan
+Gelu Galan     
+
 Bogdan Gherghiceanu
+
 Ciaun Dumitrel
