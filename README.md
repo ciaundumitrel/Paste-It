@@ -15,6 +15,8 @@ Requirments (in romanian):
 
 
 Colaboratori:
+
+
 Gelu Galan     
 
 Bogdan Gherghiceanu
