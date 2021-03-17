@@ -14,6 +14,7 @@ Requirments (in romanian):
         postări menținute maxim 30 de zile
 
 
-@gelugalan
-@BogdanGerghiceanu
-@ciaundumitrel
+Colaboratori:
+Gelu Galan
+Bogdan Gherghiceanu
+Ciaun Dumitrel
