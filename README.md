@@ -13,7 +13,7 @@ Requirments (in romanian):
         postările vor fi făcute doar public și doar după ce au răspuns corect la o problemă de tip Captcha
         postări menținute maxim 30 de zile
 
-Mainteiners:
+
 @gelugalan
 @BogdanGerghiceanu
 @ciaundumitrel
