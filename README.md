@@ -1,3 +1,12 @@
+#11.04.2021
+    [Front-end]
+        -Responsive
+        -Sunt facute doar paginile principale.
+        -Toate functionalitatile vor fii adaugate pe parcurs cand vom avansa si in partea de Back-end
+
+
+
+
 # Paste-It
 Web Technologies Project
 
@@ -20,5 +29,6 @@ Colaboratori:
 Bogdan Gherghiceanu
 
 Ciaun Dumitrel
+
 
 Gelu Galan  (nu mai face parte din echipa)
