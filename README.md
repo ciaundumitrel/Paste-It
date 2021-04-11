@@ -4,7 +4,7 @@
         -Sunt facute doar paginile principale.
         -Toate functionalitatile vor fii adaugate pe parcurs cand vom avansa si in partea de Back-end
 
-[![Alt text]https://i.postimg.cc/sXwfFCGN/gatz.png)](https://youtu.be/jXi8Fb9S35Q)
+[![Alt text](https://i.postimg.cc/sXwfFCGN/gatz.png)](https://youtu.be/jXi8Fb9S35Q)
 
 
 
