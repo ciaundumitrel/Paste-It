@@ -17,8 +17,8 @@ Requirments (in romanian):
 Colaboratori:
 
 
-Gelu Galan     
-
 Bogdan Gherghiceanu
 
 Ciaun Dumitrel
+
+Gelu Galan  (nu mai face parte din echipa)

@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{ 
+    font-family: 'Ubuntu Mono';
+    color:rgb(37, 35, 35) ;
+    line-height: 1.6;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+
+}
+h1{
+    line-height: 1.2;
+    margin: 10px 0;
+}
+
+p{
+    margin: 10px 0;
+}
+
+img {
+    width:100%;
+}
+
+.navbar {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    height: 70px;
+}
+.navbar .flex{
+    justify-content: space-between;
+}
+
+.container{
+    max-width: 1600px;
+    margin: 0 auto;
+    overflow: auto;
+    padding: 0 20px;
+}
+.flex{
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+
+.navbar ul{
+    display:flex;
+  
+}
+ .navbar a{
+    color: rgb(48, 255, 7);
+    padding: 8px;
+    margin: 0 5px;
+    margin-left: 10px;
+    border-radius: 8px;
+    border-color: greenyellow;
+    border: 2px solid;
+    transition:.80s ease;
+}
+
+.navbar a:hover{
+    border-bottom: 2px rgb(0, 0, 0) solid;
+    background-color:  rgb(41, 177, 14) ;
+    color:black;
+
+}
+
+.buttonGuest{
+    background-color: black;
+    margin-bottom: 100px;
+    position: absolute;
+    font-size: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+
+}
+
+.about{
+
+
+    margin: 3% 3% 0% 3%;
+  
+    background-color: black;
+
+    
+    border-radius: 10px;
+    align-content: center;
+    text-align: center;
+    
+}
+
+
+.text{
+    
+    color: rgb(30, 255, 0);
+    text-align: left;
+    font-family:'Ubuntu Mono' ;
+    margin: 1%;
+   
+    padding: 2%;
+    text-indent: 15px;
+    
+}
+.aboutContainer{
+    align-items: center;
+
+}
+
+
+img{
+    padding-top: 1%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50vh;
+}
+
+
+
+.about h1{
+    padding-top: 1%;
+    color: white;
+}
+
+@media only screen and (max-width: 500px) {
+    img{
+
+      width: 80vw;
+    }
+    .logo{
+        font-size: 90%;
+    }
+  }
+
+  
