@@ -4,40 +4,36 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Code deposit</title>
+    <link rel="stylesheet" href="../css/default.css">
+    <title>Login</title>
     <link rel="stylesheet" href="style.css">
-
 </head>
-<body>
- <!--NavBar-->
-    <div class="navbar">
-        <div class="container flex">
-            <h1 class="logo">Code deposit</h1>
-            <nav>
-                <ul>
-                    <li><a href="authentication/login.html">Log In</a></li>
-                    <li><a href="authentication/signUp.html">Sign Up</a></li>
-                </ul>
+<body class="defaultFont">
 
-            </nav>
+    <div class="navigationBar">
+        <div class="logoText defaultFont">
+            Code deposit
         </div>
-        <div class="aboutContainer">
-       
-            <div class="about">
-                <h1>Code Deposit</h1>
-                <img src="resources/indexCodeLife.png" alt="CodeLife" >
-                <div class="text">Here you can easy deposit, share you'r code with everyone or you can set who is allowed to see the code by unique link. 
-                Also you can send you'r code, when file is accesed, file will be removed from our servers and no one will can acces it</div>
-                
-               
-            </div>
-        </div>
-        <a class="buttonGuest" href="authentication/login/login.html">Login as guest</a>
     </div>
-    
-
-
-    
+   
+    <div class="wrapper">
+        <div id="formContent">
+          <h2 class="active"> Sign In </h2>
+          
+     
+          <form>
+            <input type="text" id="login"  name="login" placeholder="login">
+            <input type="text" id="password" name="login" placeholder="password">
+            <input type="submit"  value="Log In">
+          </form>
+      
+     
+          <div id="formFooter">
+            <a  href="#">Forgot Password?</a>
+          </div>
+      
+        </div>
+      </div>
 
 </body>
 </html>
